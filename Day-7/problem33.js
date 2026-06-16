@@ -28,4 +28,4 @@ b.x.y = 99;
 
 console.log("Original 'a':", a.x.y);
 
-console.log("Original 'a':", b.x.y);
+console.log("deepClon 'a':", b.x.y);
